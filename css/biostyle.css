@@ -1,6 +1,18 @@
+#wrapper {
+	max-width: 70%; 
+	margin: 0 auto; 
+}
 h1 {
 	color: pink;
 	border-bottom: 3px;
 	border-bottom-style: solid; 
 	border-bottom-color: black;
+}
+p {
+	color: teal;
+	font-weight: bold; 
+}
+img	{
+	width: 300px;
+	border: 3px solid pink;
 }

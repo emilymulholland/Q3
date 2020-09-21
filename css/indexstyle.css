@@ -1,0 +1,27 @@
+#wrapper {
+	max-width: 	70%;
+	margin: 0 auto;
+}
+body {
+	background-color: lavender;
+}
+h1 {
+	color: pink;
+	border-bottom-color: pink; 
+	border-bottom-style: solid;
+	border-bottom-width: 10px; 
+}
+h2	{
+	color: purple;
+	border-bottom-color: purple; 
+	border-bottom-style: solid;
+	border-bottom-width: 2px; 
+}
+p {
+	color: teal;
+	font-weight: bold;
+}
+img {
+	width: 200px;
+	border: 3px solid pink;
+}
