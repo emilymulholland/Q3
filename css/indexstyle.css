@@ -1,6 +1,8 @@
 #wrapper {
 	max-width: 	70%;
 	margin: 0 auto;
+	background-color: white;
+	padding: 20px;
 }
 body {
 	background-color: lavender;
