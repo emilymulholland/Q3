@@ -2,7 +2,7 @@
 	max-width: 	70%;
 	margin: 0 auto;
 	background-color: white;
-	padding: 20px;
+	padding: 40px;
 }
 body {
 	background-color: lavender;
@@ -12,6 +12,11 @@ h1 {
 	border-bottom-color: pink; 
 	border-bottom-style: solid;
 	border-bottom-width: 10px; 
+}
+h3	{
+	text-align: center;
+	color: gray;
+	font-size: 14pt;
 }
 h2	{
 	color: purple;

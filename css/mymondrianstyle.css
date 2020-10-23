@@ -1,0 +1,22 @@
+body, html {
+    background-color: white;
+}
+#painting {
+    background-color: #ec90cf;
+    width: 500px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+#toprow {
+	height: 40px;
+}
+#medtopbox {
+	width: 140px;
+	height:40px;
+}
+.right {
+	float: right;
+}
